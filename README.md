@@ -41,6 +41,5 @@ This project is licensed under the [MIT License](LICENSE.md). Feel free to use a
 
 ## Disclaimer
 
-This Discord bot is a work in progress, and features mentioned above may change or be updated during development. We appreciate your understanding and support as we work towards creating a better Discord bot for the community. If you encounter any issues or have suggestions, please open an issue on this repository.
+If you encounter any issues or have suggestions, please open an issue on this repository.
 
-Happy coding! 🚀
