@@ -1,0 +1,15 @@
+- Owner
+- Developer
+- Community Manager
+- Staff Manager
+- Staff Assistant
+- Senior Moderator
+- Moderator
+- Helper
+- Team Nectar
+- VIP
+- Ultimate Member
+- Emerald Member
+- Diamond Member
+- Gold Member
+- Regular Member
