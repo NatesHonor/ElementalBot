@@ -1,50 +1,46 @@
-# Contributing to Discord Bot Project
+# Discord Bot Project
 
-We appreciate your interest in contributing to the Discord Bot Project! Whether you want to report a bug, submit a feature request, or contribute code, please follow the guidelines below to ensure a smooth and collaborative development process.
+This repository contains the source code for a Discord bot, which aims to provide various features and systems to enhance the Discord server's functionality and user experience. Below is a list of the features that are planned to be implemented:
 
-## Bug Reports and Feature Requests
+## Features:
 
-If you find a bug or have a feature request, please check the [issue tracker](link-to-issue-tracker) to see if it has already been reported or suggested. If not, feel free to open a new issue with the necessary details.
+1. **Moderation System**
+   - A set of commands and functionalities to help moderators manage and maintain the server, including kicking, banning, warning, and muting users.
 
-When reporting a bug, please provide:
+2. **MC Link System**
+   - Allows users to link their Minecraft account with their Discord account, providing additional features and integrations with the Minecraft server.
 
-- A clear and descriptive title.
-- A detailed description of the issue, including steps to reproduce it.
-- Information about your operating system, Discord bot version, and any relevant details.
+3. **Role Sync System**
+   - Synchronizes specific roles between the Discord server and other platforms or services, ensuring consistent roles across different platforms.
 
-For feature requests, please explain:
+4. **Ticket System**
+   - A ticketing system that allows users to create support or assistance tickets, facilitating a structured way to handle user inquiries and issues.
 
-- The feature you'd like to see added.
-- The problem the feature would solve or the improvement it would bring.
+5. **Report System**
+   - Enables users to report other users for various reasons, providing a convenient way to manage and address user-reported issues.
 
-## Contributing Code
+6. **Better Applications**
+   - Improves the application process for new members or certain roles within the server, streamlining the application and approval process.
 
-If you want to contribute code to the project, follow these steps:
+7. **APIs**
+   - Integration of external APIs to fetch data, perform actions, or provide additional services to users.
 
-1. Fork the repository to your GitHub account.
-2. Create a new branch with a descriptive name for your changes.
-3. Make your code changes and additions on the new branch.
-4. Test your changes to ensure they work as intended.
-5. Commit your changes with clear and concise commit messages.
-6. Push your branch to your forked repository.
-7. Open a pull request (PR) to the main repository.
+8. **Music System**
+   - A music player functionality that allows users to play, queue, and manage music within voice channels.
 
-In your pull request, please include:
+9. **Leveling System**
+   - Implements a leveling and experience system for users based on their activity and engagement within the server.
 
-- A brief description of the changes you made.
-- Any relevant issue numbers that the PR addresses.
+## Contributing
 
-## Code Guidelines
+If you would like to contribute to the development of this bot, feel free to fork the repository and submit pull requests with your improvements or bug fixes. Make sure to follow the contribution guidelines outlined in the `CONTRIBUTING.md` file.
 
-To maintain a consistent and readable codebase, we follow certain coding guidelines. Please adhere to the following when contributing:
+## License
 
-- Use clear and descriptive variable and function names.
-- Comment your code where necessary to explain complex logic or functionality.
-- Format your code according to the project's style (e.g., indentation, line length).
-- Keep your commits focused on specific changes and avoid unrelated changes in a single commit.
+This project is licensed under the [MIT License](LICENSE.md). Feel free to use and modify the code as per the terms of the license.
 
-## Communication
+## Disclaimer
 
-Join our Discord server (provide an invitation link here) to engage with other contributors, discuss ideas, and get help if needed.
+If you encounter any issues or have suggestions, please open an issue on this repository.
 
-Thank you for contributing to the Discord Bot Project! We look forward to your valuable contributions and involvement in the community.
+Happy coding! 🚀
